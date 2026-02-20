@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/venkata.kirankumar/workspaces/personal-workspace/projects/credit-risk/notebooks/../mlruns/815457069954278301/3e0bc21732f14b55a1831a3c5c73e788/artifacts
+end_time: 1771323681815
+entry_point_name: ''
+experiment_id: '815457069954278301'
+lifecycle_stage: active
+run_id: 3e0bc21732f14b55a1831a3c5c73e788
+run_name: xgboost_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771323677564
+status: 3
+tags: []
+user_id: venkata.kirankumar

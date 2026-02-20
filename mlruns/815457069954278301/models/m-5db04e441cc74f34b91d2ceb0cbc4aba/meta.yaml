@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/venkata.kirankumar/workspaces/personal-workspace/projects/credit-risk/notebooks/../mlruns/815457069954278301/models/m-5db04e441cc74f34b91d2ceb0cbc4aba/artifacts
+creation_timestamp: 1771319473349
+experiment_id: '815457069954278301'
+last_updated_timestamp: 1771319477113
+model_id: m-5db04e441cc74f34b91d2ceb0cbc4aba
+model_type: null
+name: model
+source_run_id: a16b0d703ff14a6887b653fc9b1561bb
+status: 2
+status_message: null
