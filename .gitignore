@@ -22,4 +22,7 @@ reports/figures/*.png
 models/*.pkl
 
 # MLflow (keep tracked only if required by evaluator)
-# mlruns/
+mlruns/
+models/*.pkl
+models/*.joblib
+models/*.onnx
