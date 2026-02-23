@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/venkata.kirankumar/workspaces/personal-workspace/projects/credit-risk/notebooks/../mlruns/815457069954278301/1a7a179c20274597a04f902b2e4912a5/artifacts
+end_time: 1771867344501
+entry_point_name: ''
+experiment_id: '815457069954278301'
+lifecycle_stage: active
+run_id: 1a7a179c20274597a04f902b2e4912a5
+run_name: random_forest_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771867342767
+status: 3
+tags: []
+user_id: nvkirankumar

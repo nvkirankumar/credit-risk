@@ -1,0 +1,22 @@
+artifact_path: file:c:/Users/venkata.kirankumar/workspaces/personal-workspace/projects/credit-risk/notebooks/../mlruns/815457069954278301/models/m-f2fdbc3459e24de19b607f3e73d2cfb3/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-f2fdbc3459e24de19b607f3e73d2cfb3
+model_size_bytes: 318921
+model_uuid: m-f2fdbc3459e24de19b607f3e73d2cfb3
+prompts: null
+run_id: 36dcb5d4b78042d5bfa57320e3fea69e
+utc_time_created: '2026-02-23 17:22:24.568845'

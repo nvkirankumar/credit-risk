@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/venkata.kirankumar/workspaces/personal-workspace/projects/credit-risk/notebooks/../mlruns/815457069954278301/9c237c04e1114f29a5dc860cc054e1d8/artifacts
+end_time: 1771867341180
+entry_point_name: ''
+experiment_id: '815457069954278301'
+lifecycle_stage: active
+run_id: 9c237c04e1114f29a5dc860cc054e1d8
+run_name: logistic_regression_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771867338687
+status: 3
+tags: []
+user_id: nvkirankumar
